@@ -1,2 +1,3 @@
 # bookbot
-Python CLI tool for Book
+
+BookBot is my first project!
